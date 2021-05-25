@@ -1,3 +1,5 @@
+// future study
+
 fn main() {
-    println!("Hello, world!");
+    println!("{}","pis0sion rust study")
 }
